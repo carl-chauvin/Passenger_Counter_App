@@ -29,11 +29,6 @@ button {
     border-radius: 5px;
 }
 
-button:hover {
-    background-color: brown;
-    cursor: pointer;
-}
-
 #increment-btn {
     background: darkred;
 }
